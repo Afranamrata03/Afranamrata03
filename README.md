@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**Afranamrata03/Afranamrata03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# MY NAME IS AFRA NAMRATA
+I'm currently learning GitHub to build my tech and coding skills.
+I hope to use GitHub to help me with my projects, improve my coding, and share my ideas and descriptions with others.
 
-Here are some ideas to get you started:
+## 💼 Career Description
+Im passionate about learning new things and exploring different areas. Currently, I'm working on building new skills through an internship with **KKCF**, where I’m learning about **design, coding**, and how to work on real-world projects.
+## 🧠 About Me (Pronouns:She, her)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 I love **drawing** (it’s one of my favorite ways to express Emotion)
+
+🎧 I enjoy **listening to music**
+
+💻 Right now, I’m doing an **internship with KKCF** and learning **coding** during the summer. It’s helping me discover new interests and gain knowledge about new skills.
+
+## 🎓 Education
+I study at **Martin Van Buren High School**, and I’ll be moving into my junior year this fall.
+Member of differnt types of clubs including: HOSA, MUN, SCHOLAR.
+
+
+## 💼 Professional Experience
+ 📚 **summer intern with KKCF** – I've been gaining experience about using Figma to design creative projects and interfaces and exploring digital platforms like Coolors,gtihub to understand visual design and accessibility in apps.
+
+🌍 **Model UN (GCI Conference)** – Represented Poland at the UN in a 3-day conference, practiced public speaking and diplomacy.
+
+ 📚 **Student Volunteer** – Helped elementary/kindergarten students with English and Math homework after school.
+
+🩺 **HOSA Club** – Participated in health awareness events and supported classmates through the club.
